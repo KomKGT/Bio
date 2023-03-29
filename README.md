@@ -19,4 +19,4 @@
 1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android_Phone_SerialPort_By_mik3y)
 ## Android SerialPort SC20-E Board & SIMCOM8905E
 1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android-SerialPort-on-Boards)
-2. [Send & Recieve with SerialPort(on Thread)]()
+2. [Send & Recieve with SerialPort(on Thread)](https://github.com/BoonKom/Android-SerialPort-Boards_Thread)
