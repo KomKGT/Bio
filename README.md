@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## STM32 Repo :unlock:
 1. [STM32 NUCLEO-L053R8 Tutorial](https://github.com/KomKGT/STM32-NUCLEO-L053R8/tree/main/Tutorial)
-2. [STM32 F4-Discovery and TouchGFX](https://github.com/KomKGT/TouchGFX_4_21_1_First_Tester)
+2. [STM32 F429I-Discovery and TouchGFX](https://github.com/KomKGT/TouchGFX_4_21_1_First_Tester)
 ## Qt Creator & Qt quick developed for Raspberry PI :unlock:
 1. [Custom Switch QML](https://github.com/KomKGT/QML_Custom)
 2. [Bedside Controller by MODBUS TCP with ESP32](https://github.com/KomKGT/Bedside_Modbus_24122022)
