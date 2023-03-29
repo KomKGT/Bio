@@ -23,24 +23,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/KomKGT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomKGT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
 
 
-## STM32 Repo
+## STM32 Repo :unlock:
 1. [STM32 NUCLEO-L053R8 Tutorial](https://github.com/KomKGT/STM32-NUCLEO-L053R8/tree/main/Tutorial)
 2. [STM32 F4-Discovery and TouchGFX](https://github.com/KomKGT/TouchGFX_4_21_1_First_Tester)
-## Qt Creator & Qt quick developed for Raspberry PI
+## Qt Creator & Qt quick developed for Raspberry PI :unlock:
 1. [Custom Switch QML](https://github.com/KomKGT/QML_Custom)
 2. [Bedside Controller by MODBUS TCP with ESP32](https://github.com/KomKGT/Bedside_Modbus_24122022)
 3. [Speed Gauge](https://github.com/KomKGT/QML_SpeedGauge)
-## Qt creator C++
+## Qt creator C++ :unlock:
 1. [PID Tuner by MODBUS TCP IP with ESP32](https://github.com/KomKGT/PID_Tuner)
 2. [FPT](https://github.com/KomKGT/LTN_FPT)
 3. [Qt Read&Write CSV File](https://github.com/KomKGT/Qt_ReadAndWrite_CSVFile)
 4. [Qt Split Text or String](https://github.com/KomKGT/Qt_SplitText)
-5. [สร้าง Signal & Slot ของเราเอง](https://github.com/KomKGT/CreateOwnSignalAndSlot)
-## Qt Creator c++ & Qt quick developed for ANDROID
-1. [UI Bedside no Modbus](https://github.com/BoonKom/ANDROID-MainView-Bedside-without-MODBUS)
-2. [Bedside MODBUS TCP qtlibrary](https://github.com/BoonKom/Modbus-Qt-Library)
-## Android SerialPort Phone
-1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android_Phone_SerialPort_By_mik3y) :lock:
-## Android SerialPort SC20-E Board & SIMCOM8905E (JAVA,JNI,C++)
-1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android-SerialPort-on-Boards) :lock:
-2. [Send & Recieve with SerialPort(on Thread)](https://github.com/BoonKom/Android-SerialPort-Boards_Thread) :lock:
+5. [สร้าง Signal & Slot ของเราเอง](https://github.com/KomKGT/CreateOwnSignalAndSlot) 
+## Qt Creator c++ & Qt quick developed for ANDROID :unlock:
+1. [UI Bedside no Modbus](https://github.com/BoonKom/ANDROID-MainView-Bedside-without-MODBUS) 
+2. [Bedside MODBUS TCP qtlibrary](https://github.com/BoonKom/Modbus-Qt-Library) 
+## Android SerialPort Phone :lock:
+1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android_Phone_SerialPort_By_mik3y) 
+## Android SerialPort SC20-E Board & SIMCOM8905E (JAVA,JNI,C++) :lock:
+1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android-SerialPort-on-Boards) 
+2. [Send & Recieve with SerialPort(on Thread)](https://github.com/BoonKom/Android-SerialPort-Boards_Thread) 
