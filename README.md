@@ -41,6 +41,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 2. [Bedside MODBUS TCP qtlibrary](https://github.com/BoonKom/Modbus-Qt-Library)
 ## Android SerialPort Phone
 1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android_Phone_SerialPort_By_mik3y)
-## Android SerialPort SC20-E Board & SIMCOM8905E
+## Android SerialPort SC20-E Board & SIMCOM8905E (JAVA,JNI,C++)
 1. [Send & Recieve with SerialPort(on Button)](https://github.com/BoonKom/Android-SerialPort-on-Boards)
 2. [Send & Recieve with SerialPort(on Thread)](https://github.com/BoonKom/Android-SerialPort-Boards_Thread)
